@@ -1,4 +1,4 @@
-package com.raul.prueba.config;
+﻿package com.raul.prueba.config;
 
 import java.time.Duration;
 import org.ehcache.config.builders.*;
